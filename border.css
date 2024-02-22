@@ -1,0 +1,17 @@
+h1 ,img{
+    border-bottom: 10px solid red;
+    background-color: yellow;
+    
+}
+h2{
+    
+    border-top: 7px solid green;
+    border: 20px;
+}
+body{
+    background-color: rgb(173, 170, 177);
+}
+.border,li{
+    border: solid red;
+    border-radius: 20px;
+}

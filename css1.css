@@ -1,0 +1,19 @@
+div{
+    background-color: #e0e0e0;
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weightd;
+  font-style: normal;
+}
+.head{
+    color: rgb(0,60, 255);
+}
+*{
+    color: rgb(0, 255, 42);
+}
+.ac{
+    background-color: aqua;
+}
+h2{
+    color: rgb(0, 60, 255);
+}
